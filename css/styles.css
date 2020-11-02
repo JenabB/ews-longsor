@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+
+.header-home {
+  padding: 0 !important;
+}
+
+.header-container {
+  width: 99.8%;
+  height: 400px;
+  background-image: url("../images/header-home.png");
+  background-size: cover;
+  padding: 50px 10px;
+}
+
+.about-container {
+  width: 99.8%;
+  height: 400px;
+  background-color: #ff6f00;
+  padding: 50px 10px;
+}
+
+.feature {
+  margin-top: 100px;
+}
+
+.feature-image {
+  width: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media screen and (max-width: 500px) {
+  .container {
+    width: 100% !important;
+  }
+}

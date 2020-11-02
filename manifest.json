@@ -1,0 +1,29 @@
+{
+  "name": "EWS Longsor",
+  "short_name": "EWS Longsor",
+  "description": "Penampil hasil pengukuran sensor",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ff6f00",
+  "theme_color": "#ff6f00",
+  "icons": [
+    {
+      "src": "images/apple-touch-icons/196x196.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "images/apple-touch-icons/512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "images/apple-touch-icons/196x196.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
